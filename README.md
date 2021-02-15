@@ -23,6 +23,12 @@ Then install `bleah`:
     cd bleah
     python setup.py build
     sudo python setup.py install
+    
+ Error queue:
+ 
+    Modify the import after installation
+    from Queue import Queue
+    
 
 ## Usage
 
