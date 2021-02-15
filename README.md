@@ -24,9 +24,8 @@ Then install `bleah`:
     python setup.py build
     sudo python setup.py install
     
- Error queue:
+ Error queue: Modify the import after installation
  
-    Modify the import after installation
     from Queue import Queue
     
 
